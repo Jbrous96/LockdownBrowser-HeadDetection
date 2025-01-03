@@ -1,5 +1,5 @@
 --About--
-This is a lockdown browser for students to use when testing off-site/remote. Screen monitoring & video monitoring are a standard these days - this program monitors the angle of the participants head is at and will notate a violation if the users head exceeds a certain angle. I trained the model with a degree tolerance around 65-70 degrees left/right with 0 deg being the focal point/web-cam area. 
+This is a lockdown browser for students to use when testing off-site/remote. What sets this system apart is its ability to track the participant's head position, flagging any violations if the head angle exceeds a predefined threshold. The machine learning model has been trained with a tolerance of approximately 65-70 degrees to the left or right, with 0 degrees serving as the focal point aligned with the webcam. This ensures a balanced approach to monitoring while allowing for natural movement within an acceptable range.
 
 --This is mainly a fun mini-project for me to delve into ML; however, this is a few months old at this point in time that I'm committing it to github--
 
